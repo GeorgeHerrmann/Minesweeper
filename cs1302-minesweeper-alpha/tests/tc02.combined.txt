@@ -1,0 +1,299 @@
+        _
+  /\/\ (F)_ __   ___  _____      _____  ___ _ __   ___ _ __
+ /    \| | '_ \ / _ \/ __\ \ /\ / / _ \/ _ \ '_ \ / _ \ '__|
+/ /\/\ \ | | | |  __/\__ \\ V  V /  __/  __/ |_) |  __/ |
+\/    \/_|_| |_|\___||___/ \_/\_/ \___|\___| .__/ \___|_|
+                             ALPHA EDITION |_| v2021.sp
+
+ Rounds Completed: 0
+
+ 0 |   |   |   |   |   |
+ 1 |   |   |   |   |   |
+ 2 |   |   |   |   |   |
+ 3 |   |   |   |   |   |
+ 4 |   |   |   |   |   |
+     0   1   2   3   4 
+
+minesweeper-alpha: 
+ Rounds Completed: 1
+
+ 0 | F |   |   |   |   |
+ 1 |   |   |   |   |   |
+ 2 |   |   |   |   |   |
+ 3 |   |   |   |   |   |
+ 4 |   |   |   |   |   |
+     0   1   2   3   4 
+
+minesweeper-alpha: 
+ Rounds Completed: 2
+
+ 0 | F |   |   |   |   |
+ 1 |   | F |   |   |   |
+ 2 |   |   |   |   |   |
+ 3 |   |   |   |   |   |
+ 4 |   |   |   |   |   |
+     0   1   2   3   4 
+
+minesweeper-alpha: 
+ Rounds Completed: 3
+
+ 0 | F |   |   |   |   |
+ 1 |   | F |   |   |   |
+ 2 |   |   | F |   |   |
+ 3 |   |   |   |   |   |
+ 4 |   |   |   |   |   |
+     0   1   2   3   4 
+
+minesweeper-alpha: 
+ Rounds Completed: 4
+
+ 0 | F |   |   |   |   |
+ 1 |   | F |   |   |   |
+ 2 |   |   | F |   |   |
+ 3 |   |   |   | F |   |
+ 4 |   |   |   |   |   |
+     0   1   2   3   4 
+
+minesweeper-alpha: 
+ Rounds Completed: 5
+
+ 0 | F | 2 |   |   |   |
+ 1 |   | F |   |   |   |
+ 2 |   |   | F |   |   |
+ 3 |   |   |   | F |   |
+ 4 |   |   |   |   |   |
+     0   1   2   3   4 
+
+minesweeper-alpha: 
+ Rounds Completed: 6
+
+ 0 | F | 2 | 1 |   |   |
+ 1 |   | F |   |   |   |
+ 2 |   |   | F |   |   |
+ 3 |   |   |   | F |   |
+ 4 |   |   |   |   |   |
+     0   1   2   3   4 
+
+minesweeper-alpha: 
+ Rounds Completed: 7
+
+ 0 | F | 2 | 1 | 0 |   |
+ 1 |   | F |   |   |   |
+ 2 |   |   | F |   |   |
+ 3 |   |   |   | F |   |
+ 4 |   |   |   |   |   |
+     0   1   2   3   4 
+
+minesweeper-alpha: 
+ Rounds Completed: 8
+
+ 0 | F | 2 | 1 | 0 | 0 |
+ 1 |   | F |   |   |   |
+ 2 |   |   | F |   |   |
+ 3 |   |   |   | F |   |
+ 4 |   |   |   |   |   |
+     0   1   2   3   4 
+
+minesweeper-alpha: Invalid Command: Index 5 out of bounds for length 5
+
+ Rounds Completed: 8
+
+ 0 | F | 2 | 1 | 0 | 0 |
+ 1 |   | F |   |   |   |
+ 2 |   |   | F |   |   |
+ 3 |   |   |   | F |   |
+ 4 |   |   |   |   |   |
+     0   1   2   3   4 
+
+minesweeper-alpha: Invalid Command: Index -1 out of bounds for length 5
+
+ Rounds Completed: 8
+
+ 0 | F | 2 | 1 | 0 | 0 |
+ 1 |   | F |   |   |   |
+ 2 |   |   | F |   |   |
+ 3 |   |   |   | F |   |
+ 4 |   |   |   |   |   |
+     0   1   2   3   4 
+
+minesweeper-alpha: 
+ Rounds Completed: 9
+
+ 0 | F | 2 | 1 | 0 | 0 |
+ 1 | 2 | F |   |   |   |
+ 2 |   |   | F |   |   |
+ 3 |   |   |   | F |   |
+ 4 |   |   |   |   |   |
+     0   1   2   3   4 
+
+minesweeper-alpha: 
+ Rounds Completed: 10
+
+ 0 | F | 2 | 1 | 0 | 0 |
+ 1 | 2 | F | 2 |   |   |
+ 2 |   |   | F |   |   |
+ 3 |   |   |   | F |   |
+ 4 |   |   |   |   |   |
+     0   1   2   3   4 
+
+minesweeper-alpha: 
+ Rounds Completed: 11
+
+ 0 | F | 2 | 1 | 0 | 0 |
+ 1 | 2 | F | 2 | 1 |   |
+ 2 |   |   | F |   |   |
+ 3 |   |   |   | F |   |
+ 4 |   |   |   |   |   |
+     0   1   2   3   4 
+
+minesweeper-alpha: 
+ Rounds Completed: 12
+
+ 0 | F | 2 | 1 | 0 | 0 |
+ 1 | 2 | F | 2 | 1 | 0 |
+ 2 |   |   | F |   |   |
+ 3 |   |   |   | F |   |
+ 4 |   |   |   |   |   |
+     0   1   2   3   4 
+
+minesweeper-alpha: 
+ Rounds Completed: 13
+
+ 0 | F | 2 | 1 | 0 | 0 |
+ 1 | 2 | F | 2 | 1 | 0 |
+ 2 | 1 |   | F |   |   |
+ 3 |   |   |   | F |   |
+ 4 |   |   |   |   |   |
+     0   1   2   3   4 
+
+minesweeper-alpha: 
+ Rounds Completed: 14
+
+ 0 | F | 2 | 1 | 0 | 0 |
+ 1 | 2 | F | 2 | 1 | 0 |
+ 2 | 1 | 2 | F |   |   |
+ 3 |   |   |   | F |   |
+ 4 |   |   |   |   |   |
+     0   1   2   3   4 
+
+minesweeper-alpha: 
+ Rounds Completed: 15
+
+ 0 | F | 2 | 1 | 0 | 0 |
+ 1 | 2 | F | 2 | 1 | 0 |
+ 2 | 1 | 2 | F | 2 |   |
+ 3 |   |   |   | F |   |
+ 4 |   |   |   |   |   |
+     0   1   2   3   4 
+
+minesweeper-alpha: 
+ Rounds Completed: 16
+
+ 0 | F | 2 | 1 | 0 | 0 |
+ 1 | 2 | F | 2 | 1 | 0 |
+ 2 | 1 | 2 | F | 2 | 1 |
+ 3 |   |   |   | F |   |
+ 4 |   |   |   |   |   |
+     0   1   2   3   4 
+
+minesweeper-alpha: 
+ Rounds Completed: 17
+
+ 0 | F | 2 | 1 | 0 | 0 |
+ 1 | 2 | F | 2 | 1 | 0 |
+ 2 | 1 | 2 | F | 2 | 1 |
+ 3 | 0 |   |   | F |   |
+ 4 |   |   |   |   |   |
+     0   1   2   3   4 
+
+minesweeper-alpha: 
+ Rounds Completed: 18
+
+ 0 | F | 2 | 1 | 0 | 0 |
+ 1 | 2 | F | 2 | 1 | 0 |
+ 2 | 1 | 2 | F | 2 | 1 |
+ 3 | 0 | 1 |   | F |   |
+ 4 |   |   |   |   |   |
+     0   1   2   3   4 
+
+minesweeper-alpha: 
+ Rounds Completed: 19
+
+ 0 | F | 2 | 1 | 0 | 0 |
+ 1 | 2 | F | 2 | 1 | 0 |
+ 2 | 1 | 2 | F | 2 | 1 |
+ 3 | 0 | 1 | 2 | F |   |
+ 4 |   |   |   |   |   |
+     0   1   2   3   4 
+
+minesweeper-alpha: 
+ Rounds Completed: 20
+
+ 0 | F | 2 | 1 | 0 | 0 |
+ 1 | 2 | F | 2 | 1 | 0 |
+ 2 | 1 | 2 | F | 2 | 1 |
+ 3 | 0 | 1 | 2 | F | 1 |
+ 4 |   |   |   |   |   |
+     0   1   2   3   4 
+
+minesweeper-alpha: 
+ Rounds Completed: 21
+
+ 0 | F | 2 | 1 | 0 | 0 |
+ 1 | 2 | F | 2 | 1 | 0 |
+ 2 | 1 | 2 | F | 2 | 1 |
+ 3 | 0 | 1 | 2 | F | 1 |
+ 4 | 0 |   |   |   |   |
+     0   1   2   3   4 
+
+minesweeper-alpha: 
+ Rounds Completed: 22
+
+ 0 | F | 2 | 1 | 0 | 0 |
+ 1 | 2 | F | 2 | 1 | 0 |
+ 2 | 1 | 2 | F | 2 | 1 |
+ 3 | 0 | 1 | 2 | F | 1 |
+ 4 | 0 | 0 |   |   |   |
+     0   1   2   3   4 
+
+minesweeper-alpha: 
+ Rounds Completed: 23
+
+ 0 | F | 2 | 1 | 0 | 0 |
+ 1 | 2 | F | 2 | 1 | 0 |
+ 2 | 1 | 2 | F | 2 | 1 |
+ 3 | 0 | 1 | 2 | F | 1 |
+ 4 | 0 | 0 | 1 |   |   |
+     0   1   2   3   4 
+
+minesweeper-alpha: 
+ Rounds Completed: 24
+
+ 0 | F | 2 | 1 | 0 | 0 |
+ 1 | 2 | F | 2 | 1 | 0 |
+ 2 | 1 | 2 | F | 2 | 1 |
+ 3 | 0 | 1 | 2 | F | 1 |
+ 4 | 0 | 0 | 1 | 1 |   |
+     0   1   2   3   4 
+
+minesweeper-alpha: 
+ ░░░░░░░░░▄░░░░░░░░░░░░░░▄░░░░ "So Doge"
+ ░░░░░░░░▌▒█░░░░░░░░░░░▄▀▒▌░░░
+ ░░░░░░░░▌▒▒█░░░░░░░░▄▀▒▒▒▐░░░ "Such Score"
+ ░░░░░░░▐▄▀▒▒▀▀▀▀▄▄▄▀▒▒▒▒▒▐░░░
+ ░░░░░▄▄▀▒░▒▒▒▒▒▒▒▒▒█▒▒▄█▒▐░░░ "Much Minesweeping"
+ ░░░▄▀▒▒▒░░░▒▒▒░░░▒▒▒▀██▀▒▌░░░
+ ░░▐▒▒▒▄▄▒▒▒▒░░░▒▒▒▒▒▒▒▀▄▒▒▌░░ "Wow"
+ ░░▌░░▌█▀▒▒▒▒▒▄▀█▄▒▒▒▒▒▒▒█▒▐░░
+ ░▐░░░▒▒▒▒▒▒▒▒▌██▀▒▒░░░▒▒▒▀▄▌░
+ ░▌░▒▄██▄▒▒▒▒▒▒▒▒▒░░░░░░▒▒▒▒▌░
+ ▀▒▀▐▄█▄█▌▄░▀▒▒░░░░░░░░░░▒▒▒▐░
+ ▐▒▒▐▀▐▀▒░▄▄▒▄▒▒▒▒▒▒░▒░▒░▒▒▒▒▌
+ ▐▒▒▒▀▀▄▄▒▒▒▄▒▒▒▒▒▒▒▒░▒░▒░▒▒▐░
+ ░▌▒▒▒▒▒▒▀▀▀▒▒▒▒▒▒░▒░▒░▒░▒▒▒▌░
+ ░▐▒▒▒▒▒▒▒▒▒▒▒▒▒▒░▒░▒░▒▒▄▒▒▐░░
+ ░░▀▄▒▒▒▒▒▒▒▒▒▒▒░▒░▒░▒▄▒▒▒▒▌░░
+ ░░░░▀▄▒▒▒▒▒▒▒▒▒▒▄▄▄▀▒▒▒▒▄▀░░░ CONGRATULATIONS!
+ ░░░░░░▀▄▄▄▄▄▄▀▀▀▒▒▒▒▒▄▄▀░░░░░ YOU HAVE WON!
+ ░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▀▀░░░░░░░░ SCORE: 100.00
+
